@@ -1,0 +1,4 @@
+pandas==1.2.0
+meli==3.0.0
+numpy==1.19.2
+ipython==7.21.0
